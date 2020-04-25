@@ -31,5 +31,6 @@ int main()
 	default:
 		cout << "Illegal operation" << endl;
 	}
+	cout << "the end" << endl;
 	return 0;
 }
