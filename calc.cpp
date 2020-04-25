@@ -17,7 +17,7 @@ int main()
 		cout << num1 + num2 << endl;
 		break;
 	case'-':
-		cout << num1 - num2 << endl;
+		cout << num1 - num2 << endl; // ragaca
 		break;
 	case'*':
 		cout << num1 * num2 << endl;
